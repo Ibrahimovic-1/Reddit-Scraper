@@ -1,5 +1,5 @@
 # Reddit-Scraper
-Scrape the subreddit, posts, comments from reddit. Use the official API PRAW to grab data.
+Scrape the subreddit, posts, comments from reddit related with stocks. Use the official API PRAW to grab data.
 
 ## Praw official tutorial: https://praw.readthedocs.io/en/stable/index.html
 
